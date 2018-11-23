@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "lk.abslanka.nips.ors",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "nips",
+    "packageName": "lk.abslanka.nips.ors",
+    "packageFolder": "lk/abslanka/nips/ors",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NjA5OGI2N2I4MzkzODM2YTdlODBmYTdmZjkzZDkzYzI1OTVlNjFjODY5NjQzN2E3OTExM2IwNDNjNWFmZDkxYTk0ZTZjMmU4ZWYwNGNkOThlYTU4ZTA3NTQ0ZTllNTkyYTNkYzEwZDdmZjRmZGQ1MjliN2RhMDEwZWEyM2FjMGY=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ar-ly"
+    ]
+  }
+}
